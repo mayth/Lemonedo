@@ -1,0 +1,17 @@
+﻿Lemonedo - MessagePack Editor
+ * Masato Kunita (mayth)
+---
+
+### Requirements
+* .NET Framework 4.0 Full
+* Binary Rewriter (ccrewrite.exe)
+  -> Install "CodeContracts". See: http://msdn.microsoft.com/en-us/devlabs/dd491992.aspx
+  -> Binary Rewriter is required only when you build this application.
+
+### Limitations
+* Create a new file
+ Lemonedo can't create a new MessagePack file.
+
+* Modification to Elements
+ If you select the other node from the tree after you modified the node, you can choose apply or discard changes to the node.
+ But you cannot choose 'cancel moving the node, and continue editing on the current node'.

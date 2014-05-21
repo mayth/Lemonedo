@@ -1,0 +1,13 @@
+﻿		MessagePack structure
+
+MessagePack Format specification: http://wiki.msgpack.org/display/MSGPACK/Format+specification
+
+The types that can contain other elements are:
+ * Arrays (fix array, array 16, array 32)
+ * Maps (fix map, map 16, map 32)
+
+No mention of types that can be a key is made.
+-> Are any elements allowed to be a key?
+
+String representation is not specified in MessagePack.
+-> String is represented by "raw" type.
