@@ -3,7 +3,7 @@ Lemonedo
 
 Lemonedo: MessagePack Editor
 
-** Choose the alternative! **
+__Choose the alternative!__
 
 # Packages
 
@@ -25,8 +25,8 @@ Lemonedo will hang-up if you open a message pack file with so many items.
 
 Lemonedo is licensed under the MIT license. See `LICENSE`.
 
-Lemonedo uses (and includes) [Be.HexEditor]'s HexBox component. It's licensed under the MIT license. See `Be.Windows.Forms.HexBox/license.txt`.
+Lemonedo uses (and includes) [Be.HexEditor](http://hexbox.sourceforge.net)'s HexBox component. It's licensed under the MIT license. See `Be.Windows.Forms.HexBox/license.txt`.
 
 # "Lemonedo"? Is it "Lemonade"?
 
-Lemonedo = Lemon + **ED**it**O**r
+Lemonedo = Lemon + __ED__ it __O__ r
